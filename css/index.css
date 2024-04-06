@@ -388,7 +388,7 @@
     width: 100vw;
     height: 74.8vw;
 
-    background-image: url("/img/media/index/outreach-banner.png");
+    background-image: url("./img/media/index/outreach-banner.png");
     background-position: center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -463,7 +463,7 @@
     width: 100vw;
     height: 74.8vw;
 
-    background-image: url("/img/media/index/media-banner.png");
+    background-image: url("./img/media/index/media-banner.png");
 
     background-attachment: fixed;
     background-position: center;

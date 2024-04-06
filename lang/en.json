@@ -1,0 +1,32 @@
+{
+    "index": {    
+        "we_are": "WE ARE",
+        "intro": "We are an FRC Team located at Istanbul, Turkey.",
+        "buttons": {
+            "about": "ABOUT",
+            "learn_more": "LEARN MORE",
+            "sponsor_us": "SPONSOR US"
+        },
+        "stats": {
+            "members":"Members",
+            "competitions":"Competitions",
+            "years":"Years"
+        },
+        "outreach":{
+            "outreach_title":"OUTREACH",
+            "text": "We strive to share our passion for STEAM with our local community."
+        },
+        "media": {
+            "media_title": "MEDIA",
+            "text": "We document and showcase our team's progress through the season."
+        },
+        "sponsors": {
+            "sponsors_title": "SPONSORS",
+            "text": "We thank our sponsors for supporting our team and helping us achieve our mission."
+        },
+        "footer":{
+            "copyright": "© 2024 Integra 3646",
+            "credit": "Made using ExpressJs by Yaman Devrim and Yiğit Loğoğlu"
+        }
+    }
+}

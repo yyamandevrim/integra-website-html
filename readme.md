@@ -13,7 +13,6 @@ you should setup the language supoort in /lang, with abbreviations of the langua
 
  - transfer the code to a framework, probably react
  - set up mongo db
- - add usermanagement and sign in with
- - google or maybe email?
+ - add usermanagement and sign in with google or maybe email?
  - add admin panel for language configuration
  - make a responsive design for mobile (not too important right now)

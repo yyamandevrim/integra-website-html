@@ -116,8 +116,8 @@
 
 #landing-banner-title-text {
     font-family: 'Varsity';
-    src: url('./varsity_regular.ttf') format('ttf'),
-    url('./varsity_regular.ttf') format('ttf');
+    src: url('/varsity_regular.ttf') format('ttf'),
+    url('/varsity_regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
     color: var(--color-light);
